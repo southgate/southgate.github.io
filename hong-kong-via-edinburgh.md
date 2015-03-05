@@ -85,30 +85,41 @@ I found the Concorde Room in JFK to be much nicer, food included, and the servic
 
 I couldn't get a Cabana so I took a shower in one of the Elemis Spa showers.  It was functional and mostly clean though it made a disturbing gurgling sound as water entered the drain.
 
-### Bitish Airways Economy LHR to EDI
+### British Airways Economy LHR to EDI
+*BA 1448 12/31/15 1405-1526*
 
-This was uneventful economy class flight.  I will say that compared to US domestic flights, BA domestic is signifiantly more pleasant: newer planes, nicer staff, better drink selection, and better snacks.
+This was an uneventful economy class flight.  I will say that compared to US domestic flights, BA domestic is significantly more pleasant: newer planes, nicer staff, better drink selection, and better snacks.
 
-EDI-LHR
+It was great to see my extended family and celebrate the New Year. We stayed in Dunfermline, just north of Edinburgh.
 
-Uneventful
+![](https://scontent-a-sjc.cdninstagram.com/hphotos-xpa1/t51.2885-15/928664_746150882134393_1884340141_n.jpg)
 
-~~Taxi~~ EcoCar (?) to hotel. £19 + £5 taxi. Up early at the Stanwell.
+### British Airways Economy EDI to LHR
+*BA 1447 1/3/15 1625-1747*
 
-LHR-MXP
+Another uneventful domestic economy class flight.  My flight to HKG left the the following morning so I booked a room at The Stanwell which is a perfectly fine hotel.  The only issue is that getting there cost £24 for a 10 minute cab ride.  
 
-Uber. Great breakfast.
+I got up at 4am to get a run in before my flights and this time opted for an Uber to the airport instead of a taxi which end up running me £9 instead.
 
-Sala Viale
 
-MXP-HKG CX 234
+### British Airways LHR to MXP
+*BA 572 1/4/2015 740-1049*
+
+I arrived at Terminal 5 at 545am, checked in and made it through security and to the lounge  within 10 minutes. Since I was flying ClubEurope I headed straight for the British Airways Galleries Lounge.
+
+A nice cold breakfast spread was to be had along with the usual espresso machines, coffee, newspapers, and a pre-dawn view of the apron.
+
+The 2 1/2 hour flight to MXP went without incident.  I had a full english breakfast and coffee. The
+
+### Cathay Pacific MXP to Hong Kong
+*CX 234 1/5/2015 MXP-HKG CX 234
 1231
 1K
 Departure
 
 After checking email and have a few glasses of water in the Sala Viale lounge I made my way down to the gate where boarding had already begun.  There was no wait in the FastTrack line so I walked through and turned left.
 
-I was escorted to my seat which, being 1K, was not too far from the door.  I always enjoy seeing who else is riding First Class.  Who's potentially on revenue, who's on an award, who's the frothing miles nerd.  Today's flight had a full first class.
+I was escorted to my seat, 1K, which was not too far from the door.  I always enjoy seeing who else is riding First Class.  Who's potentially on revenue, who's on an award, who's the frothing miles nerd.  Today's flight had a full first class.
 - An elderly gentleman who seemed rather giddy.
 - A young girl flying alone, maybe around 14.
 - A late 30s guy who bore a slight resemblance to Guy Fieri
