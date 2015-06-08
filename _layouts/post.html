@@ -1,0 +1,62 @@
+<!doctype>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <header class="header">👋</header>
+
+    <div class="wrapper">
+      {% unless page.date %}
+      <div class="sidebar">
+        <h3>
+          Alex Southgate
+        </h3>
+        <p>
+          I was born in the UK but have lived most of my life in the
+          US, currently based in San Francisco.
+          I work as a developer at <a href="https://github.com/southgate">GitHub</a>.
+        </p>
+        <p>
+          Find me elsewhere on
+          <a href="https://twitter.com/fromagie">Twitter</a>, and
+          <a href="https://instagram.com/fromagie">Instagram</a>,
+        </p>
+      </div>
+      {% endunless %}
+      <div class="column js-content">
+        {% if page.date %}
+          <article>
+            <header class="post-header">
+              <h3 class="post-title">{{ page.title }}</h3>
+              {% if page.date %}
+                <small>
+                  {{ page.date | date_to_string }} -
+                  by <a href="https://twitter.com/fromagie" target="_blank">@fromagie</a>
+                </small>
+              {% endif %}
+            </header>
+            {{ content }}
+          </article>
+          <div class="pagination" data-pjax>
+            {% if page.previous %}
+              <a class="page-nav" href="{{ page.previous.url }}" id="js-previous-post">
+                &lt; {{ page.previous.title }}
+              </a>
+            {% endif %}
+            {% if page.next %}
+              <a class="page-nav" href="{{ page.next.url }}" id="js-next-post">
+                {{ page.next.title }} &gt;
+              </a>
+            {% endif %}
+          </div>
+        {% else %}
+          {{ content }}
+        {% endif %}
+      </div>
+    </div>
+    <footer class="footer">
+      I stole this layout from my inimitable colleague, <a href="http://github.com/muan">@muan</a>.
+    </footer>
+  </body>
+</html>

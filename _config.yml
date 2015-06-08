@@ -1,0 +1,8 @@
+title:            "@southgate"
+permalink:        pretty
+highlighter:      pygments
+google_analytics: UA-63865006-1
+timezone:         America/Los_Angeles
+sass:
+  sass_dir: assets
+  style: :compressed

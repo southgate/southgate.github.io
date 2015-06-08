@@ -1,4 +1,7 @@
-# Round the world for New Years in Edinburgh and a stop in Hong Kong (BA F, BA J, CX F)
+---
+layout: post
+title: "Around The World: New Years in Edinburgh en route to Hong Kong (BA F, BA J, CX F)"
+---
 
 ### Planning
 
@@ -124,13 +127,14 @@ After checking my email and quaffing a couple glasses of water in the Sala Viale
 ![img_3196](https://cloud.githubusercontent.com/assets/52830/6498389/62ec56c0-c2a0-11e4-98f5-603db8ba2811.jpg)
 *View from the lounge with my ride to HKG in the distance*
 
-I was escorted to my seat, 1K.  I always enjoy seeing who else is riding First Class.  Who's potentially on revenue, who's on an award, who's the frothing miles nerd.  Today's flight had a full first class.
-- An elderly gentleman who seemed rather giddy.
+I was escorted to my seat, 1K.  I always enjoy seeing who else is riding First Class.  Who's potentially on revenue, who's on an award, who's the frothing miles nerd.  Today's flight had a full first class:
+
+- A surprisingly giddy elderly gent.
 - A young girl flying alone, maybe around 14.
-- A late 30s guy who bore a slight resemblance to Guy Fieri.
+- A late 30s guy bearing a slight resemblance to Guy Fieri.
 - A family of four with a toddler and an infant sitting behind me in 2K and 2J.  
 
-The family of four were Italian.  She was definitely over 6 feet tall. This being Milan, I'd venture that she is or was a model.  He was impeccably, if casually, dressed.  Well played, wealthy and fabuluous Italian family, well played.  
+The family of four were Italian.  She was definitely over 6 feet tall. This being Milan, I'd venture that she is or was a model.  He was impeccably, if casually, dressed.  Well played, wealthy and fabulous Italian family, well played.  
 
 They had just two seats, but it seemed to be fine given that the kids were tiny and the seats huge.  I was initially worried that I'd have two screaming kids behind me but they were extremely well behaved and I didn't hear them at all until the last 30 minutes of the flight.
 
@@ -140,6 +144,7 @@ Dinner was served immediately after departure.  As airplane food goes it was tas
 *I went with the Chinese dinner*
 
 ![img_3215](https://cloud.githubusercontent.com/assets/52830/6498407/84ab354c-c2a0-11e4-8a32-83c075ba1c53.jpg)
+*And the fruit and cream for desert*
 
 After dinner, I slept for a solid 5 hours, woke up and ate breakfast.  Eating and sleeping: it's what I do best on planes.
 
@@ -150,9 +155,14 @@ Arriving early, I thought I'd get a shower before heading to the hotel since the
 
 ### Hong Kong
 
-*Hong Kong Harbor Kong*
+![img_3232](https://cloud.githubusercontent.com/assets/52830/8029552/7a1c291a-0d73-11e5-8dce-6159bea5ab4d.jpg)
+*Hong Kong Diner Kong*
 
 I spent 2 days in Hong Kong with a friend who happened to be in town mostly just walking about, eating, and drinking.  Hong Kong is great for a couple day stopover but I'm not terribly compelled to return for a longer trip.
+
+![img_3261](https://cloud.githubusercontent.com/assets/52830/8029554/7a1fdec0-0d73-11e5-8a46-e100635bebd6.jpg)
+*Signage in Kowloon*
+
 
 ### The Wing, The Bridge
 
@@ -164,7 +174,7 @@ Once through, I walked all the way left to The Wing. It was late in the day and 
 
 A cabana was available, so I spent an hour in there showering, shaving, and lazing about.  I can't imagine a better way to pass an hour in an airport before a long flight.  My friend who met me at SFO commented that I looked remarkably *refreshed* after a 12 hour flight.
 
-
+![img_3270](https://cloud.githubusercontent.com/assets/52830/8029553/7a1e6f4a-0d73-11e5-8972-2e8ead768da8.jpg)
 *The oft-photographed Cabana*
 
 I ordered some dinner in the restaurant which was fairly crappy.  Since I had some time to spare I took a walk over to The Bridge - the business class lounge at the opposite end of the terminal.  
@@ -182,7 +192,7 @@ As I settled into 1A, the very friendly and professional crew went about their w
 
 I ordered 2 coffees and finished watching Under the Skin then ordered the Chinese dinner option and watched Hunger Games 2.  The short day turned to night once again and we were descending into SFO shortly thereafter.
 
-[Animation of landing]
+<iframe src="https://player.vimeo.com/video/130069415" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/130069415">CX 872 landing in SFO</a>.</p>
 
 I was first off the plane and with Global Entry was waiting for my bag about 5 minutes after leaving the plane.  Coincidentally a good friend was visiting and arrived at the same time as me so we met up, hopped into a car and were home 30 minutes after touchdown.
 
