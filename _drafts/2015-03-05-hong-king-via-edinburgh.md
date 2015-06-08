@@ -1,10 +1,10 @@
-# New Years in Edinburgh with a stop in Hong Kong (BA F, BA J, CX F)
+# Round the world for New Years in Edinburgh and a stop in Hong Kong (BA F, BA J, CX F)
 
 ### Planning
 
 Sometime in May 2014 I started thinking about my next award trip as I had a fair number of miles that needed to be burned before another devaluation made our lives slightly less amazing.
 
-I had 60k Dividend Miles already, on top of which I took advantage of the share miles promo available at the time whereby you could get up to 100% bonus when sharing your miles with someone.  I found a co-conspirator on flyertalk and edged my balance up to 125k.
+I had 60k Dividend Miles already, on top of which I took advantage of the share miles promo available at the time wherein you could get up to 100% bonus when sharing your miles with someone.  I found a co-conspirator on flyertalk and edged my balance up to 125k.
 
 My extended family in the UK were planning to rent a house near Edinburgh for New Years so I started planning around that. US Airways had just recently ended the 90k mile award for business class from North America to North Asia with a stopover in Europe.  That award now prices at 110k but you can still book first class for 120k miles: a great deal for a round the world trip in first. I set about finding availability to somewhere in North Asia via the UK.
 
@@ -30,13 +30,16 @@ Flights and stops:
 - British Airways First Class, SFO-LHR
 - British Airways Arrivals Lounge, LHR Terminal 5
 - British Airways Economy LHR-EDI
+- Dunfermline, Scotland
 - British Airways Economy EDI-LHR
 - British Airways Galleries Lounge, LHR Terminal 5
 - British Airways ClubWorld LHR-MXP
 - Sala Montale Lounge, MXP
 - Cathay Pacific First Class MXP-HKG
 - Cathay Pacific Arrivals Lounge, HKG
+- Hong Kong
 - Cathay Pacific The Wing, HKG
+- Cathay Pacific The Bridge, HKG
 - Cathay Pacific First Class HKG-SFO
 
 I'm terrible at taking pictures along the way for trip reports, so forgive the crappy ones I do have.
@@ -49,7 +52,7 @@ As reviewed elsewhere the First Class Lounge is just a small lounge within the T
 *The ride to LHR*
 
 ### British Airways First Class SFO-LHR
-*BA 284 12/30/14 410 PST - 1030 GMT*
+*BA 284 12/30/14 1610 - 1030 + 1 Day*
 
 I was greeted by the purser who escorted me to 1K, declaring it "the best seat in the house, sir".
 
@@ -70,7 +73,7 @@ I'd been going to bed very early and getting up very early the previous couple o
 I slept for a solid 5 hours, woke up, and ordered a Full English breakfast.  Breakfast was cleared and we were on the ground at 1026 GMT.
 
 ![img_3143](https://cloud.githubusercontent.com/assets/52830/6323060/89bc2346-bad7-11e4-8c66-645d2ea675a5.JPG)
-*Heathrow under partially cloudy skies*
+*Heathrow under typically cloudy skies*
 
 ### British Airways ~~Arrivals Lounge~~ Concorde Room, LHR Terminal 5
 
@@ -78,7 +81,7 @@ Club World was held until the First Class cabin deplaned.  Since I'm also a UK c
 
 My understanding is that passengers departing on International First Class have access to The Concorde Room.  I, on the other hand, was booked on a separate domestic ticket in Economy to EDI.
 
-I thought I'd give it a shot anyway.  I got the top of the escalator where all of the Heathrow lounges are and played a little dumb asking which lounge I should go to.  I showed her my boarding pass for SFO-LHR to which she responded, "Firt Class, you're welcome to enjoy the Concorde Room."  The gentleman at the entrance to the Concorde Room didn't flinch at my boarding pass.   I'm not sure if that's normal or just a one off but it's worth a shot.
+I thought I'd give it a shot anyway.  I got the top of the escalator where all of the Heathrow lounges are and played a little dumb asking which lounge I should go to.  I showed her my boarding pass for SFO-LHR to which she responded, "First Class? You're welcome to enjoy the Concorde Room."  The gentleman at the entrance to the Concorde Room didn't flinch at my boarding pass.   I'm not sure if that's normal or just a one off but it's worth a shot.
 
 I found the Concorde Room in JFK to be much nicer, food included, and the service much more attentive.  I ordered a cappuccino and answered some emails in the meeting room than grabbed some food in the dining room which, though my favorite cuisine (free), was just okay.
 
@@ -88,16 +91,16 @@ I found the Concorde Room in JFK to be much nicer, food included, and the servic
 I couldn't get a Cabana so I took a shower in one of the Elemis Spa showers.  It was functional and *mostly* clean though the shower made a disturbing gurgling sound as water entered the drain.
 
 ### British Airways Economy LHR to EDI
-*BA 1448 12/31/15 1405-1526*
+*BA 1448 12/31/15 1405 - 1526*
 
 This was an uneventful economy class flight.  I will say that compared to US domestic flights, BA domestic is significantly more pleasant: newer planes, nicer staff, better drink selection, and better snacks.
 
 It was great to see my extended family and celebrate the New Year. We stayed in Dunfermline, just north of Edinburgh.
 
-![](https://scontent-a-sjc.cdninstagram.com/hphotos-xpa1/t51.2885-15/928664_746150882134393_1884340141_n.jpg)
+![Dunfermline](https://scontent-a-sjc.cdninstagram.com/hphotos-xpa1/t51.2885-15/928664_746150882134393_1884340141_n.jpg)
 
 ### British Airways Economy EDI to LHR
-*BA 1447 1/3/15 1625-1747*
+*BA 1447 1/3/15 1625 - 1747*
 
 Another uneventful domestic economy class flight.  My flight to HKG left the the following morning so I booked a room at The Stanwell which is a perfectly fine hotel.  The only issue is that getting there cost £24 for a 10 minute cab ride.  
 
@@ -105,7 +108,7 @@ I got up at 4am to get a run in before my flights and this time opted for an Ube
 
 
 ### British Airways LHR to MXP
-*BA 572 1/4/2015 740-1049*
+*BA 572 1/4/2015 740 - 1049*
 
 I arrived at Terminal 5 at 545am, checked in and made it through security and to the lounge  within 10 minutes. Since I was flying ClubEurope I headed straight for the British Airways Galleries Lounge.
 
@@ -114,7 +117,7 @@ A nice cold breakfast spread was to be had along with the usual espresso machine
 The 2 1/2 hour flight to MXP went without incident.  I had a full english breakfast and coffee.
 
 ### Cathay Pacific MXP to Hong Kong
-*CX 234 1/5/2015 1231-0557*
+*CX 234 1/5/2015 1231 - 0557 + 1 day*
 
 After checking my email and quaffing a couple glasses of water in the Sala Viale lounge I made my way down to the gate where boarding had already begun.  There was no wait in the FastTrack line so I walked through and turned left.
 
@@ -153,34 +156,38 @@ I spent 2 days in Hong Kong with a friend who happened to be in town mostly just
 
 ### The Wing, The Bridge
 
-I'd head about checking bags at the Kowloon Airport Express station so I did just that.  The check-in experience is obviously not as slick as First Class at the airport but I was bag-free for the next 14 hours which I was very happy with.
+I'd heard about checking bags at the Kowloon Airport Express station so I did just that.  The check-in experience is obviously not as slick as First Class at the airport but I was bag-free for the next 20 hours which I was very happy with.
 
-There's no expedited security for premium passengers at HKIA; a surprising bit of egalitarianism in such a hot bed of capitalism.  No matter, it took all of 5 minutes.
+There's no expedited security for premium passengers at HKIA; a surprising bit of egalitarianism in such a hot bed of capitalism.  No matter, I'm a man of the people. Also it took all of 5 minutes.
 
 Once through, I walked all the way left to The Wing. It was late in the day and I was ready to take a shower and relax so I'd arrived at the airport around 3 1/2 hours before departure.  
 
-A cabana was available, so I spent an hour in there showering, shaving, and generally lazing about.  I can't imagine a better way to pass an hour in an airport before a long flight. My friend who met me at the airport at SFO remarked that I looked *refreshed* after a 12 hour flight and I think the Cabana has a lot do with it.
+A cabana was available, so I spent an hour in there showering, shaving, and lazing about.  I can't imagine a better way to pass an hour in an airport before a long flight.  My friend who met me at SFO commented that I looked remarkably *refreshed* after a 12 hour flight.
+
+
+*The oft-photographed Cabana*
 
 I ordered some dinner in the restaurant which was fairly crappy.  Since I had some time to spare I took a walk over to The Bridge - the business class lounge at the opposite end of the terminal.  
 
-I actually found it to be more comfortable and provided a view of the apron, so I plonked down, had a snack, and did some last minute email.
+I found it to be more comfortable and provided a view of the apron, so I plonked down, had a snack, and did some last minute email.
 
-Around departure time I walked *all* the way back to the gate A3, passing through a final security check at the gate. The line for economy was *HUGE*, there was a small line for business, and as you'd expect, no line for first class. I hate to admit it but *this* feels like the biggest luxury. I just cruise up and walk right on board.
+Around departure time I walked *all* the way back to the gate A3, passing through a final security check at the gate. The line for economy was *HUGE*, there was a small line for business, and as you'd expect, no line for first class, so I just sauntered on in. And *that*, ladies and gentlemen, is the most decadent part of this whole business.
 
 ### Cathay Pacific First Class HKG-SFO
-*CX 872 Seat 1A*
+*CX 872 Seat 1A 0117 - 0952 - 1 Day*
 
-Other travelers: Middle aged Chinese man behind me.  A Chinese mom/dad/daughter and a young guy based in SF who I'm guessing was also traveling on miles.
+First class was full on this leg.  My compatriots were a middle aged Chinese man behind me.  A Chinese mom, dad, and daughter and a young guy based in SFO I'd wager was also traveling on miles.
 
-Settle into 1A. Very friendly and professional crew.  Dozing off during takeoff.  As seat belt sign is turned off asked if I want dinner.  Decline and ask to have bed made immediately.  Sleep for 5 solid hours.  Wake up to try to get back close to PST.  Order to coffees and watch the rest of Under the Skin.   Order chinese dinner option and watch Hunger Games 2.  Day turns to night once again.
+As I settled into 1A, the very friendly and professional crew went about their work diligently.  As soon as we were airborne, I was asked if I would like dinner.  It being approximately 130am and me being shattered, I declined and asked to have my bed made.  I slept for a 5 solid hours and woke up to try to get back onto PST.  
+
+I ordered 2 coffees and finished watching Under the Skin then ordered the Chinese dinner option and watched Hunger Games 2.  The short day turned to night once again and we were descending into SFO shortly thereafter.
 
 [Animation of landing]
 
-I was first off the plane and with Global Entry was waiting for my bag about 5 minutes after leaving the plane.  My bag was the 4th or 5th bag out.  Into a car and since I live in the mission which is very close to the airport I was at home 30 minutes after touchdown.
-
+I was first off the plane and with Global Entry was waiting for my bag about 5 minutes after leaving the plane.  Coincidentally a good friend was visiting and arrived at the same time as me so we met up, hopped into a car and were home 30 minutes after touchdown.
 
 ### Fin
 
-This was one of my favorite award redemptions since I started this game a few years back. Travel over the holidays can be stressful but going solo and flying premium cabins makes the whole thing just so damn easy.  Factor in some time with family (that I really enjoy being with) and hanging out with a friend in foreign territory and you've got yourself a great little trip.
+This was one of my favorite award redemptions since I started this game a few years back. Travel over the holidays can be stressful but going solo and flying premium cabins makes the whole thing just so damn easy.  Factor in some time with family that I really enjoy being with and hanging out with a friend in foreign territory and you've got yourself a great little trip.
 
 A+++ would fly again.
