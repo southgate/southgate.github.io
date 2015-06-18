@@ -16,7 +16,7 @@ A few years ago, my then girlfriend and I were on vacation on a small island nea
 
 As I'm dusting myself off, I notice some dude standing at a distance just staring at us.  "What the hell is this guy staring at?" I remember thinking.  Then he says, incredulously, "Alex?".  I squint, "Tarken?".
 
-I hadn't seen him in 17 years and here he was with Toni and their beautiful daughter, Lumi, who was very intent on ensuring no one attempted to clothe her. We spent a couple of warm evenings together catching up and just hanging out.  I'm so very grateful that I had this chance to meet his new family and see my old friend one last time. What a gift.  
+I hadn't seen him in 17 years and here he was with Toni and their beautiful daughter, Lumi, who was very intent on ensuring no one attempted to clothe her. We spent a couple of warm evenings together catching up and just hanging out.  I'm so very grateful that I had the chance to meet his new family and see my old friend one last time. What a gift.  
 
 ![alex tarken in bali](https://cloud.githubusercontent.com/assets/52830/8224612/5a3eb9aa-153e-11e5-84f4-4c5d49d78cc8.jpg)
 *Tarken and Alex in Bali, September 2012*
