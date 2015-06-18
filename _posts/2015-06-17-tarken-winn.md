@@ -8,9 +8,9 @@ I met Tarken in 5th grade at Antwerp International School.  I was taken with and
 For a couple of summers running I would spend large portions of the summer staying at the Winn's house.  Tarken's house was chaotic and free-range and I loved it. It was closer to our partner in crime, Robert Kerns, the skate park, the bmx track, and a far superior sweet shop to my own local.
 
 ![alex tarken rob on a bike](https://cloud.githubusercontent.com/assets/52830/8224613/5b905732-153e-11e5-998a-c50cf0ac9f9e.jpg)
-*Myself in the front, Tarken in the middle, and Rob Kerns in the back. circa 1987*
+*Myself in the front, Tarken in the middle, and Rob Kerns in the back. 1987*
 
-I spent a US summer / NZ winter traveling in New Zealand when I was 19, reuniting with the Tarken and the Winn clan.  Among other adventures, the two of us drove down to Lake Waikeramoana and tramped around for 4 days, mostly in the rain.  I remember whining about the weather and how tired I was but nothing but good energy coming from Tarken.  One of the character qualities I value the most in friends is being game for anything and Tarken was most definitely that.
+I spent a US summer / NZ winter traveling in New Zealand when I was 19, reuniting with the Tarken and the Winn clan.  Among other adventures, the two of us drove down to Lake Waikaremoana and tramped around for 4 days, mostly in the rain.  I remember whining about the weather and how tired I was but nothing but good energy coming from Tarken.  One of the character qualities I value the most in friends is being game for anything and Tarken was most definitely that.
 
 A few years ago, my girlfriend and I were on vacation on a small island near Bali.  We'd found a nice beach bar to watch the sunset from.  We spotted a picnic table and both sat down on the same side.  As one would expect, the table tipped backwards and we narrowly escaped an embarrasing wipe out.  As I'm dusting myself off, this guy is standing at distance just staring at me.  "What the hell is this guy staring at?" I remember thinking.  Then he says, incredulously, "Alex?".  I squint, "Tarken?".
 
