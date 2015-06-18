@@ -21,7 +21,7 @@ I hadn't seen him in 17 years and here he was with Toni and their beautiful daug
 ![alex tarken in bali](https://cloud.githubusercontent.com/assets/52830/8224612/5a3eb9aa-153e-11e5-84f4-4c5d49d78cc8.jpg)
 *Tarken and Alex in Bali, September 2012*
 
-I will miss him dearly.
+I will miss him greatly.
 
 *Alex Southgate<br>
 San Francisco, California<br>
