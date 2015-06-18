@@ -1,0 +1,18 @@
+<!doctype>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="column js-content">
+        <article>
+          <header class="post-header">
+            <h3 class="post-title">{{ page.title }}</h3>
+          </header>
+          {{ content }}
+        </article>
+      </div>
+    </div>
+  </body>
+</html>

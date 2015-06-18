@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Tarken Winn"
+layout: plain
+title: "Tarken"
 ---
 
 I met Tarken in 5th grade at Antwerp International School.  I was taken with and emulated his peculiar habit of always wearing his jacket indoors regardless of temperature.  I also held in high regard his decision to limit himself to only artificial flavorings.
