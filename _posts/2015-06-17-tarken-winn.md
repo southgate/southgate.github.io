@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Tarken Winn"
+---
+
 I met Tarken in 5th grade at Antwerp International School.  I was taken with and emulated his peculiar habit of always wearing his jacket indoors regardless of temperature.  I also held in high regard his decision to limit himself to only artificial flavorings.
 
 For a couple of summers running I would spend large portions of the summer staying at the Winn's house.  Tarken's house was chaotic and free-range and I loved it. It was closer to our partner in crime, Robert Kerns, the skate park, the bmx track, and a far superior sweet shop to my own local.
