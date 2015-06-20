@@ -10,7 +10,7 @@ For a couple of summers running I would spend large portions of the summer stayi
 ![alex tarken rob on a bike](https://cloud.githubusercontent.com/assets/52830/8224613/5b905732-153e-11e5-998a-c50cf0ac9f9e.jpg)
 *Myself in the front, Tarken in the middle, and Rob Kerns in the back. 1987*
 
-I spent a US summer / NZ winter traveling in New Zealand when I was 19, reuniting with Tarken and the Winn clan.  Among other adventures, the two of us drove down to Lake Waikaremoana and tramped around for 4 days, mostly in the rain.  It was beautiful and I loved it but I distinctly remember whining about the weather and how tired I was. Tarken was nothing but enthusiasm and good vibes.  He was smart, curious, easy going, and game for anything.
+I spent a US summer / NZ winter traveling in New Zealand when I was 19, reuniting with Tarken and the Winn clan.  Among other adventures, the two of us drove down to Lake Waikaremoana and tramped around for 4 days, mostly in the rain.  It was beautiful and I loved it but I distinctly remember whining about the weather and how tired I was. Tarken was nothing but enthusiasm and good vibes.
 
 A few years ago, my then girlfriend and I were on vacation on a small island near Bali.  We'd found a nice beach bar from which to watch the sunset.  We spotted a picnic table and, unwisely, both sat down on the same side.  As one would expect, the table tipped backwards and we narrowly escaped  embarrassment at the very least.
 
@@ -21,7 +21,7 @@ I hadn't seen him in 17 years and here he was with Toni and their beautiful daug
 ![alex tarken in bali](https://cloud.githubusercontent.com/assets/52830/8224612/5a3eb9aa-153e-11e5-84f4-4c5d49d78cc8.jpg)
 *Tarken and Alex in Bali, September 2012*
 
-I will miss him greatly.
+I will miss him dearly.
 
 *Alex Southgate<br>
 San Francisco, California<br>
